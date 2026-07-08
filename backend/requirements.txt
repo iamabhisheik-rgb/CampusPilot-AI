@@ -7,3 +7,5 @@ httpx>=0.24.0
 websockets>=11.0
 pypdf>=3.0.0
 python-multipart>=0.0.5
+google-generativeai==0.8.5
+google-ai-generativelanguage>=0.6.15
